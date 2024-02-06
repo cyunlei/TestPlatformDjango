@@ -1,0 +1,36 @@
+[2023-12-30 18:11:40,457][read_data.py 35][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\data\\login\\login.yaml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\data\\login\\login.yaml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\data\\login\\login.yaml'
+[2023-12-30 18:12:33,607][read_data.py 35][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š'utf-8' codec can't decode byte 0xb5 in position 47: invalid start byte
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º'utf-8' codec can't decode byte 0xb5 in position 47: invalid start byte
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º'utf-8' codec can't decode byte 0xb5 in position 47: invalid start byte
+[2023-12-30 18:18:12,912][read_data.py 35][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\data\\login\\login_.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\data\\login\\login_.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\data\\login\\login_.yml'
+[2023-12-30 18:18:25,641][read_data.py 35][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š'utf-8' codec can't decode byte 0xb5 in position 47: invalid start byte
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º'utf-8' codec can't decode byte 0xb5 in position 47: invalid start byte
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º'utf-8' codec can't decode byte 0xb5 in position 47: invalid start byte
+[2023-12-30 18:24:50,243][read_data.py 35][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼šexpected str, bytes or os.PathLike object, not type
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not type
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not type
+[2023-12-30 18:25:17,783][read_data.py 35][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼šexpected str, bytes or os.PathLike object, not type
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not type
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not type
+[2023-12-30 18:26:03,329][read_data.py 35][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼šexpected str, bytes or os.PathLike object, not type
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not type
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not type
+[2023-12-30 18:33:10,968][user.py 25][ERROR]: caseæ–‡ä»¶é‡Œé¢æ²¡æœ‰æ•°æ®
+caseÎÄ¼şÀïÃæÃ»ÓĞÊı¾İ
+caseÎÄ¼şÀïÃæÃ»ÓĞÊı¾İ
+[2023-12-30 19:36:24,652][user.py 47][ERROR]: caseç¼ºå°‘model_methodè¯·æ±‚æ–¹æ³•å­—æ®µ
+caseÈ±ÉÙmodel_methodÇëÇó·½·¨×Ö¶Î
+caseÈ±ÉÙmodel_methodÇëÇó·½·¨×Ö¶Î
+[2023-12-30 19:37:42,884][user.py 43][ERROR]: caseç¼ºå°‘model_methodè¯·æ±‚æ–¹æ³•å­—æ®µ
+caseÈ±ÉÙmodel_methodÇëÇó·½·¨×Ö¶Î
+caseÈ±ÉÙmodel_methodÇëÇó·½·¨×Ö¶Î
+[2023-12-30 19:38:48,440][user.py 43][ERROR]: caseç¼ºå°‘model_methodè¯·æ±‚æ–¹æ³•å­—æ®µ
+caseÈ±ÉÙmodel_methodÇëÇó·½·¨×Ö¶Î
+caseÈ±ÉÙmodel_methodÇëÇó·½·¨×Ö¶Î
+[2023-12-30 20:14:50,227][user.py 50][ERROR]: è§£æé”™è¯¯: caseç¼ºå°‘model_methodè¯·æ±‚æ–¹æ³•å­—æ®µ
+½âÎö´íÎó: caseÈ±ÉÙmodel_methodÇëÇó·½·¨×Ö¶Î
+½âÎö´íÎó: caseÈ±ÉÙmodel_methodÇëÇó·½·¨×Ö¶Î

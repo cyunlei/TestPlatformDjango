@@ -1,0 +1,18 @@
+﻿USER:
+  - model_name: login
+    model_desc: 登录模块
+    model_url: /user/adduser
+    model_method: POST
+    model_headers: { 'Content-Type': 'application/json' }
+    model_expect: { 'code': 200, 'msg': 'success' }
+    case_model_params_1:
+      u_account: 15110264122
+      u_name: 陈先生
+      u_passwd: aB15110264122!
+      u_phone: 15110264122
+      u_sex: 男
+      u_address: 广东省深圳市南山区
+    case_model_params_2:
+      u_account: 15110264122
+      u_passwd: aB15110264122!
+      model_expect: { 'code': 200, 'msg': 'success' }

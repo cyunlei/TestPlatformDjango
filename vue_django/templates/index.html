@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>vue & django</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    {#    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>#}
+    <script src="https://cdn.bootcdn.net/ajax/libs/axios/0.19.2/axios.min.js"></script>
+</head>
+<body>
+<h1>Vue Django</h1>
+<div id="app">
+    <table>
+        <tr>
+            <th>#</th>
+            <th>标题</th>
+            <th>定价</th>
+        </tr>
+        <tr v-for="book in books">
+            <td>[[ book.id ]]</td>
+            <td>[[ book.title ]]</td>
+            <td>[[ book.price ]]</td>
+
+        </tr>
+    </table>
+</div>
+<script>
+
+    var app = new Vue({
+        el: "#app",
+        delimiters: ["[[", "]]"],
+        data: {
+            books: []
+        },
+        mounted: function () {
+            this.fetchData()
+        },
+        methods: {
+            fetchData: function () {
+                axios.get("/book/api/books").then(response => {
+                    this.books = response.data;
+                }), err => {
+                    console.log(err);
+                };
+            }
+        }
+    });
+</script>
+</body>
+</html>

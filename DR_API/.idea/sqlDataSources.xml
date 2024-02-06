@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="69f2439a-355c-4fe4-a3c8-d17109b8173a" name="@hadoop102 Mapping">
+      <data-sources db="be0ecab5-b529-457b-aa0c-f102a41e2b89" />
+    </mapping>
+  </component>
+</project>

@@ -1,0 +1,93 @@
+[2023-12-31 22:02:08,527][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+[2023-12-31 22:02:08,532][ParseFile.py 59][ERROR]: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:02:08,532][ParseFile.py 62][ERROR]: è§£æé”™è¯¯: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:02:08,533][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼šexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+[2023-12-31 22:04:11,570][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+[2023-12-31 22:04:11,570][ParseFile.py 59][ERROR]: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:04:11,570][ParseFile.py 62][ERROR]: è§£æé”™è¯¯: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:04:11,572][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼šexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+[2023-12-31 22:04:48,112][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+[2023-12-31 22:04:48,112][ParseFile.py 59][ERROR]: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:04:48,112][ParseFile.py 62][ERROR]: è§£æé”™è¯¯: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:04:48,113][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼šexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+[2023-12-31 22:11:18,344][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+[2023-12-31 22:11:18,344][ParseFile.py 59][ERROR]: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:11:18,344][ParseFile.py 62][ERROR]: è§£æé”™è¯¯: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:12:40,898][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+[2023-12-31 22:12:40,900][ParseFile.py 59][ERROR]: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:12:40,900][ParseFile.py 62][ERROR]: è§£æé”™è¯¯: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:12:57,124][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+[2023-12-31 22:12:57,125][ParseFile.py 59][ERROR]: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:12:57,125][ParseFile.py 62][ERROR]: è§£æé”™è¯¯: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:12:57,125][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼šexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+[2023-12-31 22:15:34,068][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D:\\Project\\DR_AutomationInterfaceTest\\case\\user_login.yml'
+[2023-12-31 22:15:34,069][ParseFile.py 59][ERROR]: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:15:34,069][ParseFile.py 62][ERROR]: è§£æé”™è¯¯: caseæ–‡ä»¶é‡Œé¢æ•°æ®æ ¼å¼ä¸æ­£ç¡®
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+½âÎö´íÎó: caseÎÄ¼şÀïÃæÊı¾İ¸ñÊ½²»ÕıÈ·
+[2023-12-31 22:15:34,069][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼šexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+[2023-12-31 22:26:44,304][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼šexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+[2023-12-31 22:27:24,117][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼šexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£ºexpected str, bytes or os.PathLike object, not list
+[2023-12-31 22:28:03,342][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š[Errno 2] No such file or directory: 'user.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'user.yml'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'user.yml'
+[2023-12-31 22:30:33,176][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š[Errno 2] No such file or directory: 'D'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D'
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º[Errno 2] No such file or directory: 'D'
+[2023-12-31 22:31:23,142][read_data.py 34][ERROR]: è¯»å–yamlæ–‡ä»¶å¤±è´¥ï¼ŒåŸå› æ˜¯ï¼š'utf-8' codec can't decode byte 0xb3 in position 56: invalid start byte
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º'utf-8' codec can't decode byte 0xb3 in position 56: invalid start byte
+¶ÁÈ¡yamlÎÄ¼şÊ§°Ü£¬Ô­ÒòÊÇ£º'utf-8' codec can't decode byte 0xb3 in position 56: invalid start byte
